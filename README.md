@@ -1,2 +1,2 @@
-# wordpress-init
+#Wordpress Init
 Wordpress Boilerplate Theme Creator
